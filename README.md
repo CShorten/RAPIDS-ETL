@@ -1,2 +1,2 @@
 # RAPIDS-ETL
-Benchmarking rapids vs. pandas feature engineering
+Benchmarking rapids (cudf) vs. pandas for feature engineering on the NFL Data Bowl Kaggle Competition
